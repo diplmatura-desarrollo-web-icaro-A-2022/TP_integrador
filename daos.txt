@@ -1,0 +1,9 @@
+{
+  "id": "martin fierro1927",
+  "title": "martin fierro",
+  "author": "jose hernandes",
+  "genre": "ficcion",
+  "year": "1927",
+  "cost": "1800",
+  "price": "2999"
+}

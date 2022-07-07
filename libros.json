@@ -1,0 +1,38 @@
+[
+  {
+    "id": "María Martínez2022",
+    "title": "cuando no queden mas estrellas que contar",
+    "author": "María Martínez",
+    "genre": "narrativo",
+    "year": "2022",
+    "cost": "1600",
+    "price": "2860"
+  },
+  {
+    "id": "ricardo guiraldes1926",
+    "title": "segundo sombra",
+    "author": "ricardo guiraldes",
+    "genre": "ficcion",
+    "year": "1926",
+    "cost": "2300",
+    "price": "4000"
+  },
+  {
+    "id": "beer jhonston1997",
+    "title": "mecanica vectorial",
+    "author": "beer jhonston",
+    "genre": "didactico",
+    "year": "1997",
+    "cost": "7600",
+    "price": "9550"
+  },
+  {
+    "id": "martin fierro1927",
+    "title": "martin fierro",
+    "author": "jose hernandes",
+    "genre": "ficcion",
+    "year": "1927",
+    "cost": "1800",
+    "price": "2999"
+  }
+]

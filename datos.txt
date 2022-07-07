@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "title": "",
+  "author": "",
+  "genre": "",
+  "year": "",
+  "cost": "",
+  "price": ""
+}
